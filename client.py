@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 14 15:06:30 2020
-
-@author: sumit
-"""
 
 import socket
 import os
